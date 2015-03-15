@@ -26,3 +26,10 @@ li {
 .footer{
 	text-align: center;
 }
+.banner { position: relative; overflow: auto; }
+.banner li { list-style: none; }
+.banner ul li { float: left; }
+
+.slider img{
+	height: 300px;
+}
