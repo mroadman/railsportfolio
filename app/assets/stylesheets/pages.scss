@@ -26,10 +26,11 @@ li {
 .footer{
 	text-align: center;
 }
-.banner { position: relative; overflow: auto; }
-.banner li { list-style: none; }
-.banner ul li { float: left; }
-
-.slider img{
-	height: 300px;
+.banner{
+	background-image: image-url("slide1.png");
+	height:415px;
+	width:100%
+}
+.projectImage img{
+	height:100px
 }
